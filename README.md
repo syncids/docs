@@ -26,6 +26,7 @@
 - Given a matter, **pull** documents into this matter from
   - Matters in 2-way family
   - One way synced matters
+  - deletedArt will NOT flow anywhere
 - Only the given matter is updated
 
     
