@@ -25,6 +25,9 @@
 #### Pull
 - Given a matter, **pull** documents into this matter from
   - Matters in 2-way family
+    - For each matter in family, pull cited/uncited
+    - Dedup the list
+    - Add them to the matter
   - One way synced matters
   - deletedArt will NOT flow anywhere
 - Only the given matter is updated
